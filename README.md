@@ -3,7 +3,7 @@
 This is a clean and responsive portfolio website built with HTML5 and CSS3. It demonstrates basic DevOps principles like version control, automation of deployment via GitHub Pages, and static hosting.
 
 ## 💻 Live Demo
-🔗 [Visit Live Site](https://github.com/cwebhunter01/Ops-in-Action.git)
+🔗 [Visit Live Site](https://cwebhunter01.github.io/Ops-in-Action/)
 
 ## 📦 Tech Stack
 - HTML5
